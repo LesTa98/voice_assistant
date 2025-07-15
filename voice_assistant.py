@@ -25,4 +25,3 @@ def wish_user():
         speak("Good Evening!")
     speak("I am your voice assistant. How can I help you today?")
 
-wish_user()
